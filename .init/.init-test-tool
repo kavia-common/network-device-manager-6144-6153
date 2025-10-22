@@ -1,0 +1,4 @@
+{
+    "command": "mongosh --host localhost --port 5000 --eval \"db.adminCommand(ping)\"",
+    "working_directory": "/home/kavia/workspace/code-generation/network-device-manager-6144-6153/network_device_management_db"
+}
